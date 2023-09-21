@@ -1,0 +1,19 @@
+Influenza
+        1 atggaagcaa tatcactgat gactatacta ctggtggtaa caacaagtaa tgcagacaaa
+       61 atctgcatcg gtcaccaatc aacaaattcc acggaaactg tagacacgct aacagaaaca
+      121 aatgttcctg taacacaagc caaagaattg ctccacacag aacacaatgg gatgctatgt
+      181 gcaacaaatc tgggacgtcc tcttatccta gacacatgca ccattgaagg actgatctat
+      241 ggcaacccat cttgtgacat gctgttagga ggaagggaat ggtcctacat cgtcgaaaga
+      301 ccgtccgcag taaatggaac atgctaccct ggaaatgtag aaaacctaga ggaacttaga
+      361 acacttttta gctcctctag ttcttaccaa agagtccaac tctttccaga ctcaatctgg
+      421 aatgtgactt acactgggac aagcaaatca tgttcagatt cattctatag gaatatgaga
+      481 tggttaactc aaaagaatgg gggttatcca attcaagatg cccagtacac aaacaatagg
+      541 ggaaaggaca ttcttttcgt gtggggcata catcatccac caaccgatac tgcacagacg
+      601 aatttatata caaggaccga cacaacaaca agtgtaacaa cggagacttt agataggacc
+      661 ttcaaaccat tgatagggcc aaggcccctt gtcaatggtc taattggaag aattaattac
+      721 tattggtcgg tactaaaacc aggccaaacg ttgcgagtga gatcaaatgg aaatctaatt
+      781 gctccatggt ttggacatgt tctctcaggt gagagccatg tgagaatcct gagaactgat
+      841 ttaagcagcg gtaattgtgt ggtacaatgc cagactgaaa aaggtggcct aaacagtaca
+      901 atgccatttc acaacatcag caaatatgct tttgggacct gtcccaaata tattggagtc
+      961 aagagtctca aactggcaat tggccttaga aacgtacatg ctaggtcaag tagaggacta
+     1021 ttcggagcga tagctggatt catagaagga ggttggccag gactagtcgc cggttggtat

@@ -1,0 +1,19 @@
+Bacteria
+	1 tcaagcgtta gagaagtcat tatgtgataa aaaaattcaa cttggtatca acttaactaa
+       61 gggtcttggt gctggtgctt tgcctgatgt tggtaaaggt gcagcagaag aatcaattga
+      121 tgaaattatg gagcatataa aagatagcca tatgctcttt atcacagcag ggatgggtgg
+      181 tggtactgga acaggtgctg caccggtaat tgcaaaagca gccagagaag caagagcggt
+      241 agttaaagat aaaggagcaa aagaaaaaaa gatactgact gttggagttg taactaagcc
+      301 gttcggtttt gaaggtgtgc gacgtatgcg cattgcagag cttggacttg aagagttgca
+      361 aaaatacgta gatacactta ttgtcattcc caatcaaaat ttatttagaa ttgctaacga
+      421 gaaaactaca tttgctgacg catttcaact cgccgataat gttctgcata ttggcataag
+      481 aggagtaact gatttgatga tcatgccagg actgattaat cttgattttg ctgatataga
+      541 aacagtaatg agtgagatgg gtaaagcaat gattggtact ggagaggcag aaggagaaga
+      601 tagggcaatt agcgctgcag aggctgcgat atctaatcca ttacttgata atgtatcaat
+      661 gaaaggtgca caaggaatat taattaatat tactggtggt ggagatatga ctctatttga
+      721 agttgatgct gcagccaata gagtgcgtga agaagtcgat gaaaatgcaa atataatatt
+      781 tggtgccact tttgatcagg cgatggaagg aagagttaga gtttctattc ttgcaactgg
+      841 cattgatagc tgtaacgaca attcatctgt taatcaaaac aagatcccag cagaggaaaa
+      901 aaattttaaa tggccttata atcaagttcc tatatcagaa acaaaagaat atgcttcaac
+      961 tgagcaaaca aacgaaagag ttaagtgggg cagcaatgtt tatgatatac cagcttatct
+     1021 aagaagaaaa aaataatgca attttggcta ctcaagtcgg
